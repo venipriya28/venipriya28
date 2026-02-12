@@ -130,9 +130,9 @@ I enjoy solving complex problems, working with image datasets, and building prod
 
 ## 📊 GitHub Stats
 
-![Veni's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Veni's GitHub stats](https://github-readme-stats.vercel.app/api?username=venipriya28&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venipriya28&layout=compact&theme=tokyonight)
 
 ---
 
